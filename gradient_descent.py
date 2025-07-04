@@ -1,5 +1,5 @@
-import math
 from __future__ import division
+import math
 import matplotlib.pyplot as plt
 
 step_sizes = [100, 10, 1, 0.1, 0.01, 0.001, 0.0001, 0.00001]
